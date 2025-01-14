@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Logan, a former print artist, becoming a new software Developer.  Still learning and entering in some classes.  Here will be some projects and tool to learn more. 
+
+- 🔭 I’m currently working on a D&D manual through java and html. 
+- 🌱 I’m currently learning about java/javascript. 
+- 🤔 I’m looking for help with anything to help understand all this. 
+- 💬 Ask me about my Steam list
+- 📫 How to reach me same name on Linkedin
+- 😄 Pronouns: He/Him
