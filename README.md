@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Logan, a former print artist, becoming a new software Developer. Always learning and developing new skills.
 
-- 🔭 I’m currently working on a D&D manual through java and html. 
-- 🌱 Recnet bootcamp grad in full-stack program with java backend.
+- 🔭 I’m currently working on a D&D APP with Java and React 
+- 🌱 Recent bootcamp grad in full-stack program with java backend.
 - 🤔 Always looking to learn more
 - 💬 Ask me about my Steam list
 - 📫 How to reach me same name on Linkedin
